@@ -1,0 +1,4 @@
+[EKKN query result - reference output]
+EKKN selection screen entries: 84
+VBELN field not found - tried full table scan
+Result screen: EKKN: Display of Entries Found

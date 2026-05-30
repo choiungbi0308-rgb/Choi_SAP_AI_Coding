@@ -1,0 +1,2 @@
+[SE16N field listing - reference output]
+Current screen: General Table Display

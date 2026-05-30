@@ -1,0 +1,7 @@
+=== STEP1: ME22N PO Delete ===
+Screen: HKT In-Direct PO loaded
+After delete: [empty]
+Save popup: Information
+ME22N result: [saved]
+=== STEP2: VA02 Reason for Rejection ===
+VA02 screen: Change Sales Order: Initial Screen

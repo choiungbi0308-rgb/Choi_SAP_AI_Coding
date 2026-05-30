@@ -1,0 +1,28 @@
+# Sensitive credentials
+.mcp.json
+.sc4sap/
+.env
+*.env
+
+# Large binaries
+*.exe
+*.xlsx
+*.xls
+
+# Large ABAP files
+zabapgit_standalone.prog.abap
+zadt_vsp_git.prog.abap
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Local session logs
+.omc/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
